@@ -1,2 +1,2 @@
 # Semiconductor-Device-Characterization
-Semiconductor Device Characterization
+Device Characterization PN Junction
